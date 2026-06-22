@@ -29,9 +29,9 @@ Each repo includes an architecture diagram, real test results, and a documented 
 
 ## ☁️ Tech I Work With
 
-**Cloud:** AWS — EC2, S3, VPC, IAM, Lambda, RDS, API Gateway, DynamoDB, ECS Fargate, CloudFront, CloudWatch, SNS, SQS, Cognito, WAF
-**Tools:** Docker, Git/GitHub, Linux, Bash, Python (basics)
-**Practices:** Least-privilege IAM, network segmentation, monitoring & alerting, root-cause troubleshooting
+- **Cloud:** AWS — EC2, S3, VPC, IAM, Lambda, RDS, API Gateway, DynamoDB, ECS Fargate, CloudFront, CloudWatch, SNS, SQS, Cognito, WAF
+- **Tools:** Docker, Git/GitHub, Linux, Bash, Python (basics)
+- **Practices:** Least-privilege IAM, network segmentation, monitoring & alerting, root-cause troubleshooting
 
 ## 📚 Currently Learning
 
@@ -41,6 +41,6 @@ Terraform (Infrastructure as Code) · GitHub Actions CI/CD · working toward AWS
 
 ## 📫 Connect
 
-🔗 LinkedIn: [muralidharan-m-n](https://www.linkedin.com/in/muralidharan-m-n-78a2522b8)
-🌐 Portfolio: [d1gfj90rneo89i.cloudfront.net](https://d1gfj90rneo89i.cloudfront.net)
-📧 muralidharan366636@gmail.com
+- LinkedIn: [muralidharan-m-n](https://www.linkedin.com/in/muralidharan-m-n-78a2522b8)
+- Portfolio: [d1gfj90rneo89i.cloudfront.net](https://d1gfj90rneo89i.cloudfront.net)
+- Email: muralidharan366636@gmail.com
