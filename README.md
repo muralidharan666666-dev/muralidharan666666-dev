@@ -1,4 +1,4 @@
-# Hi, I'm Muralidharan M N 👋
+# Hi, I'm Muralidharan M N 
 
 **AWS Certified Cloud Practitioner (CLF-C02) · AWS re/Start Graduate**
 
@@ -14,7 +14,7 @@ with a long-term goal of moving into cloud security.
 
 ---
 
-## 🛠️ Featured Projects
+##  Featured Projects
 
 | Project | What it demonstrates | Key AWS services |
 |---|---|---|
@@ -27,19 +27,19 @@ Each repo includes an architecture diagram, real test results, and a documented 
 
 ---
 
-## ☁️ Tech I Work With
+##  Tech I Work With
 
 - **Cloud:** AWS — EC2, S3, VPC, IAM, Lambda, RDS, API Gateway, DynamoDB, ECS Fargate, CloudFront, CloudWatch, SNS, SQS, Cognito, WAF
 - **Tools:** Docker, Git/GitHub, Linux, Bash, Python (basics)
 - **Practices:** Least-privilege IAM, network segmentation, monitoring & alerting, root-cause troubleshooting
 
-## 📚 Currently Learning
+##  Currently Learning
 
 Terraform (Infrastructure as Code) · GitHub Actions CI/CD · working toward AWS Solutions Architect – Associate (SAA-C03)
 
 ---
 
-## 📫 Connect
+##  Connect
 
 - LinkedIn: [muralidharan-m-n](https://www.linkedin.com/in/muralidharan-m-n-78a2522b8)
 - Portfolio: [d1gfj90rneo89i.cloudfront.net](https://d1gfj90rneo89i.cloudfront.net)
