@@ -9,8 +9,7 @@ I'm an aspiring Cloud Support / Cloud Engineer with five hands-on AWS projects
 spanning networking, serverless, containers, and event-driven architecture.
 Each one was built, broken, debugged, and documented independently — the READMEs
 walk through the real errors I hit and how I traced them to root cause.
-Previously in banking and financial services; now focused on a cloud career,
-with a long-term goal of moving into cloud security.
+Previously in banking and financial services; now focused on a cloud career.
 
 ---
 
