@@ -32,9 +32,6 @@ Each repo includes an architecture diagram, real test results, and a documented 
 - **Tools:** Docker, Git/GitHub, Linux, Bash, Python (basics)
 - **Practices:** Least-privilege IAM, network segmentation, monitoring & alerting, root-cause troubleshooting
 
-##  Currently Learning
-
-Terraform (Infrastructure as Code) · GitHub Actions CI/CD · working toward AWS Solutions Architect – Associate (SAA-C03)
 
 ---
 
