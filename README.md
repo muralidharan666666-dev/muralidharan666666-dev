@@ -5,7 +5,7 @@
 Building real, end-to-end AWS infrastructure — and documenting every build
 and every bug I fix along the way.
 
-I'm an aspiring Cloud Support / Cloud Engineer with five hands-on AWS projects
+I'm an aspiring Cloud Engineer with hands-on AWS projects
 spanning networking, serverless, containers, and event-driven architecture.
 Each one was built, broken, debugged, and documented independently — the READMEs
 walk through the real errors I hit and how I traced them to root cause.
