@@ -13,7 +13,7 @@ Before cloud, I worked in banking and financial services (ICICI Bank, HDFC Life)
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
-| **[Three-Tier Infrastructure with Terraform](https://github.com/muralidharan666666-dev/aws-three-tier-terraform)** | 47 resources as code, remote state with locking, full rebuild in ~15 min, no port 22 open | Terraform · VPC · ALB · ASG · RDS Multi-AZ · Secrets Manager · CloudTrail |
+| **[Three-Tier Infrastructure with Terraform](https://github.com/muralidharan666666-dev/aws-three-tier-terraform)** | 49 resources as code, remote state with locking, full rebuild in ~15 min, no port 22 open | Terraform · VPC · ALB · ASG · RDS Multi-AZ · Secrets Manager · CloudTrail |
 | **[Portfolio on S3 + CloudFront with CI/CD](https://github.com/muralidharan666666-dev/aws-s3-cloudfront-static-website)** | Private bucket behind OAC, auto-deploy on every push using GitHub OIDC (no access keys) | GitHub Actions · OIDC · S3 · CloudFront |
 | **[Serverless Tasks API](https://github.com/muralidharan666666-dev/aws-serverless-tasks-api)** | Secure CRUD API with JWT auth and edge protection, $0 idle cost | Lambda · API Gateway · DynamoDB · Cognito · WAF |
 | **[Event-Driven Order Processing](https://github.com/muralidharan666666-dev/aws-event-driven-order-system)** | Decoupled async pipeline where no order is lost, thanks to retries and a dead-letter queue | API Gateway · Lambda · SQS · SNS |
