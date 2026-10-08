@@ -22,12 +22,12 @@ I build and automate AWS infrastructure with Terraform and GitHub Actions. When 
 | **[Three-Tier Infrastructure with Terraform](https://github.com/muralidharan666666-dev/aws-three-tier-terraform)** | 49 resources as code, remote state with locking, full rebuild in ~15 min, no port 22 open | Terraform · VPC · ALB · ASG · RDS Multi-AZ · Secrets Manager · CloudTrail |
 | **[Automated CI/CD Pipeline for a Flask App](https://github.com/muralidharan666666-dev/aws-automated-deployment-pipeline)** | Merge to live in 1m 52s: tests, Docker build, Trivy scan, deploy over SSM (no SSH, no AWS keys), health check, and a tested CPU alarm | GitHub Actions · Docker · Trivy · ECR · EC2 · SSM · Terraform · CloudWatch · SNS |
 | **[Microservices on ECS Fargate](https://github.com/muralidharan666666-dev/aws-ecs-fargate-microservices)** | Two services that deploy, scale and fail independently, with path-based routing | Docker · ECR · ECS Fargate · ALB · DynamoDB |
-| **[Serverless Tasks API](https://github.com/muralidharan666666-dev/aws-serverless-tasks-api)** | Secure CRUD API with JWT auth and edge protection, $0 idle cost | Lambda · API Gateway · DynamoDB · Cognito · WAF |
+| **[Serverless Tasks API](https://github.com/muralidharan666666-dev/aws-serverless-tasks-api)** | Secure CRUD API: WAF in front, and a Cognito token check before any Lambda runs | Lambda · API Gateway · DynamoDB · Cognito · WAF |
 | **[Portfolio on S3 + CloudFront with CI/CD](https://github.com/muralidharan666666-dev/aws-s3-cloudfront-static-website)** | Private bucket behind OAC, auto-deploy on every push using GitHub OIDC (no access keys) | GitHub Actions · OIDC · S3 · CloudFront |
 | **[Event-Driven Order Processing](https://github.com/muralidharan666666-dev/aws-event-driven-order-system)** | Decoupled async pipeline where no order is lost, thanks to retries and a dead-letter queue | API Gateway · Lambda · SQS · SNS |
 
 The Terraform project is a rebuild of my [manual console version](https://github.com/muralidharan666666-dev/aws-three-tier-web-application), so you can compare the two side by side.
-Every repo includes an architecture diagram, real test results and a **"Problems I ran into"** section.
+Every repo includes an architecture diagram and real test results, and most include a **"Problems I ran into"** section.
 
 ---
 
